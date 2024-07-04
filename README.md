@@ -19,4 +19,8 @@ When sweeping the drain-source voltage  Vds for various gate-source voltages Vgs
 
 Performing a DC sweep on the gate-source voltage Vgs across various values of drain-source voltage Vds the plot below shows what we observed in our analysis.
 
+![Screenshot (440)](https://github.com/Sridharcheepurupalli/Analysis-of-MOSFET/assets/147079970/592417be-fd71-401a-9bbe-6cfaaddeadc5)
+
+
+
 
